@@ -1,0 +1,14 @@
+{
+  "name": "uptight-system-breathe-iolyb",
+  "productName": "uptight-system-breathe-iolyb",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "nikitakot",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
